@@ -1,5 +1,7 @@
 # @yandex-cloud/babel-preset
 
+> ⚠️ Repository moved to @gravity-ui/babel-preset
+
 Babel preset for Yandex Cloud projects
 
 ## Installation
